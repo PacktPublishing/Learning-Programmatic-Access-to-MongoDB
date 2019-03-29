@@ -1,0 +1,27 @@
+
+
+Section 3:
+
+Referenced Links:
+https://secure.php.net/manual/en/class.mongodb-driver-bulkwrite.php
+https://secure.php.net/manual/en/mongodb-driver-bulkwrite.insert.php
+https://secure.php.net/manual/en/mongodb-driver-manager.executebulkwrite.php
+https://secure.php.net/manual/en/function.password-hash.php
+https://secure.php.net/manual/en/mongodb-driver-bulkwrite.update.php
+https://docs.mongodb.com/v3.6/reference/update-methods/
+https://secure.php.net/manual/en/mongodb-driver-bulkwrite.delete.php
+https://api.mongodb.com/python/3.4.0/api/pymongo/mongo_client.html#pymongo.mongo_client.MongoClient
+https://github.com/syrusakbary/validate_email
+https://github.com/ados1991/py3dns
+
+Section 4:
+
+https://docs.mongodb.com/v3.6/reference/operator/query/#query-selectors
+https://www.sitepoint.com/using-joins-in-mongodb-nosql-databases/
+https://docs.mongodb.com/v3.6/reference/method/db.collection.find/
+https://docs.mongodb.com/manual/reference/method/cursor.sort/
+https://docs.mongodb.com/manual/tutorial/sort-results-with-indexes/
+https://docs.mongodb.com/manual/reference/method/cursor.limit/#cursor.limit
+https://docs.mongodb.com/v3.6/reference/method/cursor.skip/index.html
+https://docs.mongodb.com/v3.6/reference/method/db.collection.aggregate/
+https://docs.mongodb.com/v3.6/core/views/index.html
